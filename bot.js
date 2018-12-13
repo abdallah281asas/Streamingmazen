@@ -8,7 +8,7 @@ const prefix = '#';
 
 client.on('ready', () => {
 
- client.user.setGame(`Sleeeeeeeeep`,'https://www.twitch.tv/MeeRcY')
+ client.user.setGame(`صدقني الموضوع صعب، مش سهل.`,'https://www.twitch.tv/MeeRcY')
  
  console.log(`Logged in as [ Vida]`);
 
